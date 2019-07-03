@@ -1,6 +1,6 @@
 # Spelervolgsysteem
 
-**Requirements (onder voorbehoud):
+**Requirements (onder voorbehoud):**
 
 1. Spelers moeten een eigen profiel hebben
 2. Spelers moeten toegewezen kunnen worden aan een of meer teams
