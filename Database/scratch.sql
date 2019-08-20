@@ -1,3 +1,5 @@
+DROP DATABASE spelervolgsysteem;
+
 CREATE DATABASE spelervolgsysteem;
 CREATE TABLE Team (Id int(10) NOT NULL AUTO_INCREMENT, Name varchar(30), PRIMARY KEY (Id)) ENGINE=InnoDB CHARACTER SET UTF8;
 CREATE TABLE Player_Player (PlayerId int(10) NOT NULL, PlayerId2 int(10) NOT NULL, PRIMARY KEY (PlayerId, PlayerId2)) ENGINE=InnoDB CHARACTER SET UTF8;
